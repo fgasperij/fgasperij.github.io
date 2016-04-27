@@ -1,0 +1,55 @@
+
+==================================================================
+https://keybase.io/fgasperi
+--------------------------------------------------------------------
+
+I hereby claim:
+
+  * I am an admin of https://fgasperij.github.io
+  * I am fgasperi (https://keybase.io/fgasperi) on keybase.
+  * I have a public key ASCzaws4zi6Ybg_7mWSDD8xw9Q48kEc1JY7V8oK4dJdqfAo
+
+To do so, I am signing this object:
+
+{
+    "body": {
+        "key": {
+            "eldest_kid": "0120b36b0b38ce2e986e0ffb9964830fcc70f50e3c904735258ed5f282b874976a7c0a",
+            "host": "keybase.io",
+            "kid": "0120b36b0b38ce2e986e0ffb9964830fcc70f50e3c904735258ed5f282b874976a7c0a",
+            "uid": "9e7cf10a0c476a0ec5daab687919b219",
+            "username": "fgasperi"
+        },
+        "service": {
+            "hostname": "fgasperij.github.io",
+            "protocol": "https:"
+        },
+        "type": "web_service_binding",
+        "version": 1
+    },
+    "client": {
+        "name": "keybase.io go client",
+        "version": "1.0.13"
+    },
+    "ctime": 1461795642,
+    "expire_in": 504576000,
+    "merkle_root": {
+        "ctime": 1461795524,
+        "hash": "de5970b9f9ef5878941c80b29fd6ae39a87e4ea8c182d5695548776e8db9f4978f3e3720558823a2a9f05c334618361e3ef48dfb3cb002e45d1da18814b98790",
+        "seqno": 452416
+    },
+    "prev": "53279bc427b03a58f2171ffb203fd6ac3387f36141d7479656a7aa2f93d8cef9",
+    "seqno": 13,
+    "tag": "signature"
+}
+
+which yields the signature:
+
+g6Rib2R5hqhkZXRhY2hlZMOpaGFzaF90eXBlCqNrZXnEIwEgs2sLOM4umG4P+5lkgw/McPUOPJBHNSWO1fKCuHSXanwKp3BheWxvYWTFAvx7ImJvZHkiOnsia2V5Ijp7ImVsZGVzdF9raWQiOiIwMTIwYjM2YjBiMzhjZTJlOTg2ZTBmZmI5OTY0ODMwZmNjNzBmNTBlM2M5MDQ3MzUyNThlZDVmMjgyYjg3NDk3NmE3YzBhIiwiaG9zdCI6ImtleWJhc2UuaW8iLCJraWQiOiIwMTIwYjM2YjBiMzhjZTJlOTg2ZTBmZmI5OTY0ODMwZmNjNzBmNTBlM2M5MDQ3MzUyNThlZDVmMjgyYjg3NDk3NmE3YzBhIiwidWlkIjoiOWU3Y2YxMGEwYzQ3NmEwZWM1ZGFhYjY4NzkxOWIyMTkiLCJ1c2VybmFtZSI6ImZnYXNwZXJpIn0sInNlcnZpY2UiOnsiaG9zdG5hbWUiOiJmZ2FzcGVyaWouZ2l0aHViLmlvIiwicHJvdG9jb2wiOiJodHRwczoifSwidHlwZSI6IndlYl9zZXJ2aWNlX2JpbmRpbmciLCJ2ZXJzaW9uIjoxfSwiY2xpZW50Ijp7Im5hbWUiOiJrZXliYXNlLmlvIGdvIGNsaWVudCIsInZlcnNpb24iOiIxLjAuMTMifSwiY3RpbWUiOjE0NjE3OTU2NDIsImV4cGlyZV9pbiI6NTA0NTc2MDAwLCJtZXJrbGVfcm9vdCI6eyJjdGltZSI6MTQ2MTc5NTUyNCwiaGFzaCI6ImRlNTk3MGI5ZjllZjU4Nzg5NDFjODBiMjlmZDZhZTM5YTg3ZTRlYThjMTgyZDU2OTU1NDg3NzZlOGRiOWY0OTc4ZjNlMzcyMDU1ODgyM2EyYTlmMDVjMzM0NjE4MzYxZTNlZjQ4ZGZiM2NiMDAyZTQ1ZDFkYTE4ODE0Yjk4NzkwIiwic2Vxbm8iOjQ1MjQxNn0sInByZXYiOiI1MzI3OWJjNDI3YjAzYTU4ZjIxNzFmZmIyMDNmZDZhYzMzODdmMzYxNDFkNzQ3OTY1NmE3YWEyZjkzZDhjZWY5Iiwic2Vxbm8iOjEzLCJ0YWciOiJzaWduYXR1cmUifaNzaWfEQNZ66f8UoyrplsuIDFwiE33mJBS9EKXjkgcoB/rIsDAY82LCBejdNITyik+zzug4HnlOjdOMhyY3CpT8l0sHNAeoc2lnX3R5cGUgo3RhZ80CAqd2ZXJzaW9uAQ==
+
+And finally, I am proving ownership of this host by posting or
+appending to this document.
+
+View my publicly-auditable identity here: https://keybase.io/fgasperi
+
+==================================================================
